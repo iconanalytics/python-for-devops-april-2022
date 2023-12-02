@@ -1,5 +1,5 @@
 name: Python application test with Github Actions
-on: [push]
+on: [push]s
 jobs:
   build:
     runs-on: ubuntu-latest
